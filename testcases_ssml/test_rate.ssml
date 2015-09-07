@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="en-US">
+<voice name="awb">
+<prosody rate="1">This is normal rate</prosody>
+<prosody rate="1.5">This is higher rate than normal</prosody>
+<prosody rate="3.0">This is much higher rate than normal</prosody>
+<prosody rate="0.4">This is lower rate than normal</prosody>
+</voice>
+</speak>
+

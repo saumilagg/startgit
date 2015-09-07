@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="en-US">
+<voice name="awb"> 
+We are testing<break /> break <break />in this statement.
+</voice>
+</speak>
+

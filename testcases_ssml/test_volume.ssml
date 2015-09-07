@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<speak version="1.0" xml:lang="en-US">
+<voice name="awb">
+
+<prosody volume="10">Time to Speak silently</prosody>
+<prosody volume="30">Time to Speak extra soft</prosody>
+<prosody volume="50">Time to Speak soft</prosody>
+<prosody volume="80">Time to Speak loud</prosody>
+<prosody volume="100">Time to Speak Louder</prosody>
+<prosody volume="115">Time to Speak extra Loud</prosody>
+</voice>
+</speak>
+
+
